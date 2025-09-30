@@ -220,6 +220,10 @@ Add a moderator reply to a ticket.
 
 Admin-only for user management.
 
+## 📜 License
+
+This project is licensed under the [ISC License](LICENSE.md).
+
 ## 🧭 Project Structure
 
 ```
